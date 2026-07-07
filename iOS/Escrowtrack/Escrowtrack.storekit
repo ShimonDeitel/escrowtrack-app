@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Multiple deposits and deduction itemization notes",
+          "displayName": "Escrowtrack Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "escrowtrack_pro",
+      "referenceName": "Escrowtrack Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
